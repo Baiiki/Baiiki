@@ -1,4 +1,9 @@
-### Hi there 👋
+All my python repositories are no longer intended to be maintained.
+
+
+## Discord
+Add me on discord: **baiiki**
+Join BK`Developpement [here](https://discord.gg/kh2g9BGtkT)
 
 <!--
 **Baiiki/Baiiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
